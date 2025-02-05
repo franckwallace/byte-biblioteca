@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\Exercicios\\source\\repos\\ByteBiblioteca\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C8A9DE4-554D-4C07-8390-1FA6FAECF368}|ByteBiblioteca\\ByteBiblioteca.csproj|c:\\users\\franc\\onedrive\\programas\\aulas\\c#\\projetos\\alura\\exercicios\\source\\repos\\bytebiblioteca\\bytebiblioteca\\usu\u00E1rios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8A9DE4-554D-4C07-8390-1FA6FAECF368}|ByteBiblioteca\\ByteBiblioteca.csproj|solutionrelative:bytebiblioteca\\usu\u00E1rios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8A9DE4-554D-4C07-8390-1FA6FAECF368}|ByteBiblioteca\\ByteBiblioteca.csproj|c:\\users\\franc\\onedrive\\programas\\aulas\\c#\\projetos\\alura\\exercicios\\source\\repos\\bytebiblioteca\\bytebiblioteca\\usu\u00E1rios\\bibliotecario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8A9DE4-554D-4C07-8390-1FA6FAECF368}|ByteBiblioteca\\ByteBiblioteca.csproj|solutionrelative:bytebiblioteca\\usu\u00E1rios\\bibliotecario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8A9DE4-554D-4C07-8390-1FA6FAECF368}|ByteBiblioteca\\ByteBiblioteca.csproj|c:\\users\\franc\\onedrive\\programas\\aulas\\c#\\projetos\\alura\\exercicios\\source\\repos\\bytebiblioteca\\bytebiblioteca\\usu\u00E1rios\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8A9DE4-554D-4C07-8390-1FA6FAECF368}|ByteBiblioteca\\ByteBiblioteca.csproj|solutionrelative:bytebiblioteca\\usu\u00E1rios\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C8A9DE4-554D-4C07-8390-1FA6FAECF368}|ByteBiblioteca\\ByteBiblioteca.csproj|c:\\users\\franc\\onedrive\\programas\\aulas\\c#\\projetos\\alura\\exercicios\\source\\repos\\bytebiblioteca\\bytebiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C8A9DE4-554D-4C07-8390-1FA6FAECF368}|ByteBiblioteca\\ByteBiblioteca.csproj|solutionrelative:bytebiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,8 +37,51 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bibliotecario.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\Exercicios\\source\\repos\\ByteBiblioteca\\ByteBiblioteca\\Usu\u00E1rios\\Bibliotecario.cs",
+              "RelativeDocumentMoniker": "ByteBiblioteca\\Usu\u00E1rios\\Bibliotecario.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\Exercicios\\source\\repos\\ByteBiblioteca\\ByteBiblioteca\\Usu\u00E1rios\\Bibliotecario.cs",
+              "RelativeToolTip": "ByteBiblioteca\\Usu\u00E1rios\\Bibliotecario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T01:53:42.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\Exercicios\\source\\repos\\ByteBiblioteca\\ByteBiblioteca\\Usu\u00E1rios\\Cliente.cs",
+              "RelativeDocumentMoniker": "ByteBiblioteca\\Usu\u00E1rios\\Cliente.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\Exercicios\\source\\repos\\ByteBiblioteca\\ByteBiblioteca\\Usu\u00E1rios\\Cliente.cs",
+              "RelativeToolTip": "ByteBiblioteca\\Usu\u00E1rios\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T01:37:40.273Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\Exercicios\\source\\repos\\ByteBiblioteca\\ByteBiblioteca\\Usu\u00E1rios\\Usuario.cs",
+              "RelativeDocumentMoniker": "ByteBiblioteca\\Usu\u00E1rios\\Usuario.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\Exercicios\\source\\repos\\ByteBiblioteca\\ByteBiblioteca\\Usu\u00E1rios\\Usuario.cs",
+              "RelativeToolTip": "ByteBiblioteca\\Usu\u00E1rios\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T01:35:46.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Programas\\Aulas\\C#\\Projetos\\Alura\\Exercicios\\source\\repos\\ByteBiblioteca\\ByteBiblioteca\\Program.cs",
               "RelativeDocumentMoniker": "ByteBiblioteca\\Program.cs",
